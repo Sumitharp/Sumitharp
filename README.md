@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumitharp
 - 👀 I’m interested in learning python, pandas 
 - 🌱 I’m currently learning coding at bootcamp Fintech at UW
-- 💞️ I’m looking to collaborate on python and pandasfinance 
+- 💞️ I’m looking to collaborate in finance projects and analysis 
 
 
 <!---
