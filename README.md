@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sumitharp
 - 👀 I’m interested in learning python, pandas 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning coding at bootcamp Fintech at UW
+- 💞️ I’m looking to collaborate on python and pandasfinance 
+
 
 <!---
 Sumitharp/Sumitharp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
