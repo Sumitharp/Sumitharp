@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding in python, pandas 
 - 🌱 I’m recently completed Certificate of Fintech at UW
 - 💞️ I’m looking to collaborate in finance projects and analysis 
+- My email prabhu.sumitha@gmail.com
 
 
 <!---
